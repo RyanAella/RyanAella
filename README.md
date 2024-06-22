@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ryan Aella!
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" alt="ArchLinux" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="godot" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity" width="50" height="50" />
+
+---
+
+📈 My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanaella&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RyanAella/RyanAella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
