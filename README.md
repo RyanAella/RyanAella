@@ -12,13 +12,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-
 src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity" width="50" height="50" />
 
----
-
-📈 My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanaella&layout=donut&theme=dark)](https://github.com/ryanaella)
-
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanaella&show_icons=true&theme=dark)](https://github.com/ryanaella)
 
 <!--
 **RyanAella/RyanAella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
