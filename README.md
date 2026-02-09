@@ -16,9 +16,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-
 
 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanaella&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanaella&layout=donut&theme=dark)](https://github.com/ryanaella)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ryanaella&show_icons=true&theme=dark)](https://github.com/ryanaella)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanaella&show_icons=true&theme=dark)](https://github.com/ryanaella)
 
 <!--
 **RyanAella/RyanAella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
